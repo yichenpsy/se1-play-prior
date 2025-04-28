@@ -47,7 +47,7 @@ Sie zeigen Ihre Antworten bitte in der Übung (kein Moodle upload).
 ```
 Ein Projekt-Verzeichnis ist...
 
-
+ein spezieller Ordner auf einem Computer oder in einem Speichersystem, der alle Dateien und Ressourcen eines bestimmten Projekts organisiert und speichert.
 ____________________________________________________
 ```
 
@@ -66,17 +66,17 @@ ____________________________________________________
 ```
 Der Setup-Prozess ist...
 
-
+'/Users/yichenzhong/Library/Mobile Documents/com~apple~CloudDocs/BHT_MI/ProjectsCode/SE1_2025/se1-play'
 ____________________________________________________
 ```
 
 `b.2` Nennen Sie drei Schritte des Setup-Prozesses?
 ```
-1.
+1. Vorbereitung der notwendigen Geräte und Werkzeuge
 
-2.
+2. Installation der Software oder Hardware
 
-3.
+3. Konfiguration der Systemeinstellungen und Parameter
 
 ____________________________________________________
 ```
@@ -85,7 +85,7 @@ ____________________________________________________
 ```
 Das Ergebnis des Setup-Prozesses ist...
 
-
+ein betriebsbereites System, das korrekt installiert, konfiguriert und einsatzbereit ist.
 ____________________________________________________
 ```
 
