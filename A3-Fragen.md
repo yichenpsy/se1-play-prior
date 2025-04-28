@@ -53,7 +53,7 @@ ____________________________________________________
 
 `a.2` Geben Sie den Pfad zum Projekt-Folder des Projekts *"se1-play"* auf Ihrem Laptop an.
 ```
-Pfad:
+Pfad:'/Users/yichenzhong/Library/Mobile Documents/com~apple~CloudDocs/BHT_MI/ProjectsCode/SE1_2025/se1-play'
 ____________________________________________________
 ```
 
@@ -66,7 +66,8 @@ ____________________________________________________
 ```
 Der Setup-Prozess ist...
 
-'/Users/yichenzhong/Library/Mobile Documents/com~apple~CloudDocs/BHT_MI/ProjectsCode/SE1_2025/se1-play'
+
+Der Setup-Prozess bereitet ein Projekt durch Planung, Team- und Ressourcenorganisation für den Start vor.
 ____________________________________________________
 ```
 
@@ -96,11 +97,11 @@ ____________________________________________________
 
 `c.1` Was befindet sich in den Verzeichnissen *"src"*, *"tests"* und *"resources"*?
 ```
-src:
+src:  Quellcode
 
-tests:
+tests: Testfälle und Testskripte
 
-resources:
+resources: zusätzliche Dateien wie Konfigurationen, Bilder oder Daten, die das Projekt benötigt.
 
 ____________________________________________________
 ```
@@ -108,14 +109,14 @@ ____________________________________________________
 `c.2` Welchen Zweck hat die Datei *".gitignore"*?
 ```
 
-
+Dateien und Verzeichnisse von der Versionskontrolle durch Git ausgeschlossen werden sollen
 ____________________________________________________
 ```
 
 `c.3` Wozu dient der Inhalt in *".vscode"*?
 ```
 
-
+Der Ordner .vscode enthält Einstellungen und Konfigurationen für den Visual Studio Code Editor
 ____________________________________________________
 ```
 
@@ -123,7 +124,7 @@ ____________________________________________________
 ```
 branches:
 
-
+Im Verzeichnis branches im Projekt se1-play befinden sich in der Regel verschiedene Entwicklungszweige (Branches) des Projekts, die parallel bearbeitet werden können.
 ____________________________________________________
 ```
 
@@ -136,7 +137,7 @@ ____________________________________________________
 ```
 Sourcing ist...
 
-
+der Prozess der Beschaffung und Auswahl von benötigten Ressourcen, Materialien oder Dienstleistungen für ein Projekt.
 ____________________________________________________
 ```
 
@@ -144,16 +145,15 @@ ____________________________________________________
 ```
 Ergebnis des Sourcings ist...
 
-
+eine Liste oder Auswahl der beschafften Ressourcen und Lieferanten, die für das Projekt bereitstehen.
 ____________________________________________________
 ```
 
 `d.3` Wann (wie oft) muss es ausgeführt werden?
 ```
-Das Sourcings muss...
-
-
-...ausgeführt werden.
+Das Sourcings muss zu Beginn des Projekts
+und bei Bedarf während des Projekts erneut 
+ausgeführt werden.
 ____________________________________________________
 ```
 
@@ -166,17 +166,17 @@ ____________________________________________________
 ```
 Der Build-Prozess ist...
 
-
+die automatische Erstellung und Zusammenstellung der Software aus Quellcode und Ressourcen.
 ____________________________________________________
 ```
 
 `e.2` Nennen Sie drei Schritte des Build-Prozesses?
 ```
-1.
+1. Kompilieren des Quellcodes
 
-2.
+2. Zusammenführen von Bibliotheken und Ressourcen
 
-3.
+3. Erzeugen der ausführbaren Dateien oder Artefakte
 
 ____________________________________________________
 ```
@@ -185,7 +185,7 @@ ____________________________________________________
 ```
 Das Ergebnis des Build-Prozesses ist...
 
-
+ein lauffähiges Programm oder Software-Artefakt.
 ____________________________________________________
 ```
 
@@ -198,17 +198,17 @@ ____________________________________________________
 ```
 Eine Runtime...
 
-
+ist die Umgebung, in der ein Programm ausgeführt wird, inklusive aller notwendigen Ressourcen und Diensten.
 ____________________________________________________
 ```
 
 `f.2` Nennen Sie drei Aufgaben der Runtime im Projekt *"se1-play"*?
 ```
-1.
+1. Bereitstellung der Ausführungsumgebung für das Programm
 
-2.
+2. Verwaltung von Speicher und Ressourcen während der Programmausführung 
 
-3.
+3. Überwachung und Steuerung des Programmablaufs
 
 ____________________________________________________
 ```
